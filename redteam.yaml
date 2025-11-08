@@ -10,7 +10,7 @@
 #   Plugins:     excessive-agency, hallucination, harmful:illegal-activities, harmful:insults, harmful:misinformation-disinformation, harmful:privacy, harmful:self-harm, harmful:specialized-advice, harmful:unsafe-practices, hijacking, pii:direct
 #   Strategies:  jailbreak, goat, prompt-injection
 # ===================================================================
-description: Jó Burger Agent
+description: ICT Assistant Agent
 providers:
   - id: http
     label: ict-assistant
