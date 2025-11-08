@@ -1,0 +1,6 @@
+# test results
+output/*
+
+# local env files
+.env*.local
+.env
